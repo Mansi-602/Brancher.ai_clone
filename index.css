@@ -1,0 +1,215 @@
+body{
+    background-color: black;
+}
+.container1{
+    margin-top: -33px;
+    width:100%;
+}
+.navbar{
+    margin-top: -75PX;
+    width: 1236px;
+}
+.navbar a{
+    margin-top: 0%;
+    float: right;
+    color: aquamarine;
+    padding: 14px 15px;
+}
+.navbar a:hover{
+    color:white;
+}
+.logo{
+    padding-left: 16px;
+    float: left;
+    padding-top: 7px;
+}
+.logotext{
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    padding-top: 13px;
+    color: white;
+}
+.text{
+    font-weight: bold;
+    height: 132px;
+    width: 865px;
+    padding-top: 120px;
+    font-size: 65px;
+    text-align: center;
+    color: aquamarine;
+    padding-left: 188px;
+}
+.text2{
+    font-size:25px ;
+    color: white;
+    text-align: center;
+    font-family: 'cambria';
+}
+.bt1{
+    height:50px; 
+    width:190px; 
+    color:black;
+    background-color: aquamarine;
+    border-radius: 8px;
+}
+.vedio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 573px;
+    width: 1013px;
+    box-shadow: 1px 1px 100px 0px rgb(32, 99, 77);
+}
+.container2{
+    margin-top: 0%;
+    width: 100%;
+    height:max-content;
+    background-color: white;
+}
+.ultimate{
+    font-weight: bold;
+    text-align: left;
+    padding-left: 190px;
+}
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+.text3{
+    color: rgb(51, 147, 115);
+    width: fit-content;
+    font-size: 60px;
+    font-family: 'calibri';
+    padding-top: 20px;
+    overflow: hidden;
+   white-space: nowrap;
+   width: 0;
+   animation: typing;
+   animation-duration: 2.5s;
+   animation-timing-function: steps(30, end);
+   animation-fill-mode: forwards;  
+}
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 100%;
+}
+.img2{
+    padding-top: 90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 100%;
+}
+.img3{
+    padding-top: 90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 100%;
+}
+h2{
+    padding-top: 20PX;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Arial';
+    font-weight: bold;
+}
+.text4{
+    color: grey;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    margin-left: 174px;
+    margin-right: 171px;
+}
+.img4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 428px;
+    width: 100%;
+}
+h3{
+    float: left;
+    color: white;
+    padding-top: 47px;
+    padding-bottom: 47px;
+    padding-left: 165px;
+    font-size: 45px;
+    font-family: Arial;
+    font-weight: bold;
+}
+.blck1{
+    width: 1200px;
+    height: 200px;
+    background-color: black;
+    padding-bottom: 40px;
+}
+.black{
+    float: right;
+    height: 126px;
+    width: 186px;
+    padding-right: 176px;
+    padding-top: 58px;
+}
+.bt-text{
+    float: right;
+    padding-right: 56px;
+    padding-top: 20px;
+    color: white;
+    margin-top: 0%;
+}
+.bt2{
+    height:50px; 
+    width:160px; 
+    color:black;
+    background-color: aquamarine;
+    border-radius: 8px;
+}
+.faqs{
+    height: max-content;
+    width: 100%;
+    background-color: white;
+    padding-top: 60px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial;
+    color: black;
+}
+.end{
+    padding-left: 30px;
+    background-color: white;
+    height: max-content;
+    width: 100%;
+    padding-bottom: 40px;
+}
+.end-head{
+    text-align: left;
+    font-size: 50px;
+    font-family: Arial;
+    font-weight: bolder;
+    padding-top: 120px;
+    padding-left: 155px;
+}
+.end-para{
+    color: dimgrey;
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: 200;
+    margin-left: 153px;
+    margin-right: 119px;
+}
+.footer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 428px;
+    width: 100%;
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+background-color: rgb(69, 154, 126);
+}
+.main{
+    text-align: center;
+    padding-top: 100px;
+}
+.end{
+    font-size: 20px;
+    text-align: center;
+}
